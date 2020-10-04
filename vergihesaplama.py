@@ -8,3 +8,6 @@ aylık_maas = haftalık_maas * 4
 vergi = aylık_maas * 0.3
 Brut_aylık_maas = aylık_maas - vergi
 print(Brut_aylık_maas)
+
+
+#by Ayaz Armutlu
